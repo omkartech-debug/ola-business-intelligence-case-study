@@ -60,7 +60,7 @@ ola-business-intelligence-case-study/
 ## Dashboard Snapshots
 
 ### Overall Performance
-![Overall Dashboard](screenshots/overall_dashboard.png)
+!<"https://github.com/omkartech-debug/ola-business-intelligence-case-study/blob/main/Ola%20Data%20Analytics%20-overall.png"/>
 
 ### Vehicle Type
 ![Revenue Dashboard](screenshots/revenue_analysis.png)
