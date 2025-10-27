@@ -62,8 +62,18 @@ ola-business-intelligence-case-study/
 ### Overall Performance
 ![Overall Dashboard](screenshots/overall_dashboard.png)
 
-### Revenue Analysis
+### Vehicle Type
 ![Revenue Dashboard](screenshots/revenue_analysis.png)
+
+### Revenue
+
+
+### Cancellation
+
+
+### Ratings
+
+
 
 ---
 
