@@ -1,4 +1,4 @@
-# 🚗 ola-business-intelligence-case-study
+# Ola Data Analysis | End-to-End Data Analytics Project
 
 ## Project Overview
 
