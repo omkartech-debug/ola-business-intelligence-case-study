@@ -31,7 +31,7 @@ This repository contains an end-to-end Business Intelligence case study using Ol
 - **Size:** 20,000+ rows
 - **Fields:** Date, vehicle, payment, amount, customer/driver IDs, booking status, rating
 
-Look at `data/ola_raw_20k.xlsx` for sample and data dictionary.
+Look at <"https://github.com/omkartech-debug/ola-business-intelligence-case-study/blob/main/Bookings-20000-Rows%20-%20July.csv"/>
 
 ---
 
