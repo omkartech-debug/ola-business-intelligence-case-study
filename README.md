@@ -95,6 +95,6 @@ ola-business-intelligence-case-study/
 
 *For more info or collaboration: 
 
-Linkedin : www.linkedin.com/in/omkar-khollam-814b052b3
+Linkedin : <"www.linkedin.com/in/omkar-khollam-814b052b3"/>
 
 
