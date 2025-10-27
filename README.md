@@ -60,20 +60,20 @@ ola-business-intelligence-case-study/
 ## Dashboard Snapshots
 
 ### Overall Performance
-<"https://github.com/omkartech-debug/ola-business-intelligence-case-study/blob/main/Ola%20Data%20Analytics%20-overall.png"/>
+<img width="581" height="332" alt="Ola Data Analytics -overall" src="https://github.com/user-attachments/assets/bbe08502-7455-450c-98e6-ea25bf9e4702" />
+
 
 ### Vehicle Type
-![Revenue Dashboard](screenshots/revenue_analysis.png)
+<img width="586" height="332" alt="Ola Data Analytics -Vehicle Type" src="https://github.com/user-attachments/assets/1d9aa635-d952-401c-ba26-cb8130545987" />
 
 ### Revenue
-
+<img width="584" height="331" alt="Ola Data Analytics -Revenue" src="https://github.com/user-attachments/assets/b7453046-0d70-46e1-a34e-628c89bb5e5e" />
 
 ### Cancellation
-
+<img width="574" height="338" alt="Ola Data Analytics -Cancellation" src="https://github.com/user-attachments/assets/588865b6-cf34-47c2-890d-9621e5a07ccd" />
 
 ### Ratings
-
-
+<img width="586" height="342" alt="Ola Data Analytics -Ratings" src="https://github.com/user-attachments/assets/3335c204-9686-497f-8e06-d995d2218c88" />
 
 ---
 
